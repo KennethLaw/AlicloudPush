@@ -33,8 +33,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "CloudPushSDK",
-            url: "https://ios-repo.oss-cn-shanghai.aliyuncs.com/push/3.2.3/push.zip",
-            checksum: "90a0df4c86b7d05e633877d622035494268b9774888d0f9584d88530d0a8b518"
+            url: "https://github.com/KennethLaw/AlicloudPush/releases/download/3.2.3/CloudPushSDK.xcframework.zip",
+            checksum: "1876a366e997aae0cdb1bac19ae5c132799cbca689f25140ca050001a88b3e0d"
         )
     ]
 )
